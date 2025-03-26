@@ -15,7 +15,7 @@ This repository contains a deep learning project focused on **sentiment classifi
 ---
 
 ## 📁 Repository Structure
-<pev>
+<pre>
 transformer-sentiment-analysis/
 │
 ├── code/                        # Jupyter Notebook with full implementation
@@ -33,7 +33,7 @@ transformer-sentiment-analysis/
 │   └── ml.jpeg                 # Combined plot (optional)
 │
 └── README.md                   # You’re here!
-</pev>
+</pre>pre>
 ---
 
 ## 📈 Results Overview
