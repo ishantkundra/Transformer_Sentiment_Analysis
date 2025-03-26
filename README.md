@@ -47,10 +47,10 @@ transformer-sentiment-analysis/
 ### 📊 Learning Curves (found in `/output`)
 
 - **Training vs Validation Accuracy**
-  ![Accuracy](output/F1.png)
+  ![Training Accuracy](Output/F1.png)
 
 - **Training vs Validation Loss**
-  ![Loss](output/F2.png)
+  ![Training Loss](Output/F2.png)
 
 ---
 
