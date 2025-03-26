@@ -44,13 +44,16 @@ transformer-sentiment-analysis/
 | Validation Accuracy | ~85.73%     |
 | Test Accuracy       | ~85.15%     |
 
-### 📊 Learning Curves (found in `/output`)
+## 📊 Learning Curves (found in /Output)
 
-- **Training vs Validation Accuracy**
-  ![Training Accuracy](Output/F1.png)
+### 📈 Training vs Validation Accuracy  
+![Training Accuracy](Output/F1.png)
 
-- **Training vs Validation Loss**
-  ![Training Loss](Output/F2.png)
+### 📉 Training vs Validation Loss  
+![Training Loss](Output/F2.png)
+
+### 🧩 Combined Plot  
+![Combined Accuracy & Loss](Output/ml.jpeg)
 
 ---
 
