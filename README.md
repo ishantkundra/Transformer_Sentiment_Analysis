@@ -59,8 +59,8 @@ transformer-sentiment-analysis/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/transformer-sentiment-analysis.git
-cd transformer-sentiment-analysis
+git clone https://github.com/ishantkundra/transformer_sentiment_analysis.git
+cd transformer_sentiment_analysis
 
 2. Set up a virtual environment (optional)
 
